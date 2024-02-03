@@ -4,7 +4,7 @@ import re
 import subprocess
 import sys
 from distutils.version import LooseVersion
-from sphinx.setup_command import BuildDoc
+#from sphinx.setup_command import BuildDoc
 
 from setuptools import setup, Extension
 from setuptools.command.build_ext import build_ext
